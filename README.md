@@ -2,7 +2,7 @@
 
 The following datasets can be found in the data file:
 
-species_info_csv: contains data about different species and their conservation status
+species_info.csv: contains data about different species and their conservation status
 
 observations.csv: holds recorded sightings of different species at several national parks for the past 7 days
 
